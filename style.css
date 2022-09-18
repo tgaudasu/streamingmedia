@@ -1,0 +1,9 @@
+html {
+    background-color:#020659;
+    font-family:Optima, Bold, sans-serif;
+    color:#FFFFFF;
+  }
+
+  #name {
+    text-transform: small-caps;
+  }
