@@ -1,0 +1,96 @@
+.images {
+    padding:-20px;
+    margin-left:-40px;
+    margin-bottom:-940px;
+}
+
+figcaption {
+    text-transform:uppercase;
+    color:#FFFFFF;
+    position:relative;
+    top:-30px;
+    right:-10px;
+}
+
+.hawaii {
+    position:relative;
+    left:850px;
+    top:-634px;
+}
+
+.iran {
+    position:relative;
+    right:424px;
+}
+
+.ireland {
+.images {
+    padding:-20px;
+    margin-left:-40px;
+    margin-bottom:-940px;
+}
+
+figcaption {
+    text-transform:uppercase;
+    color:#FFFFFF;
+    position:relative;
+    top:-30px;
+    right:-10px;
+}
+
+.hawaii {
+    position:relative;
+    left:850px;
+    top:-634px;
+}
+
+.iran {
+    position:relative;
+    right:424px;
+}
+
+.ireland {
+    position:relative;
+    left: 425px;
+    top:-634px;
+}
+
+.italy {
+    position:relative;
+    left:425px;
+    top:-634px;
+}
+
+.moabdesert {
+    position:relative;
+    top:-634px;
+}
+
+.rockymountains {
+    position:relative;
+    top:-634px;
+}
+
+.switzerland {
+    position:relative;
+    top:-919px;
+    left:850px;
+}
+
+.uk {
+    position:relative;
+    top:-634px;
+    left:-424px;
+}
+
+.usa {
+    position:relative;
+    top:-919px;
+    left:424px;
+}
+
+.wyoming {
+    position:relative;
+    top:-919px;
+    left:425px;
+}
